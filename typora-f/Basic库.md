@@ -1,6 +1,6 @@
 # Basic库
 
-| :-**1  Drawer Layout**                                         |
+| **1  Drawer Layout**                                         |
 | ------------------------------------------------------------ |
 | [**Move content to side in Draw Layout Android**](http://thetechnocafe.com/slide-content-to-side-in-drawer-layout-android/) |
 | [**How to Add a Navigation in android**](http://blog.teamtreehouse.com/add-navigation-drawer-android) |
